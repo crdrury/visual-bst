@@ -1,0 +1,10 @@
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\bin\Debug\VisualBinaryTree.exe.config
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\bin\Debug\VisualBinaryTree.exe
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\bin\Debug\VisualBinaryTree.pdb
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.csprojAssemblyReference.cache
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.Properties.Resources.resources
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.csproj.GenerateResource.cache
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.exe
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.pdb
+C:\Users\crdru\source\repos\VisualBinaryTree\VisualBinaryTree\obj\Debug\VisualBinaryTree.BinaryTreeDemo.resources
